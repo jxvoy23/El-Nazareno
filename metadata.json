@@ -1,0 +1,5 @@
+{
+  "name": "Community Church Connect",
+  "description": "A modern, responsive web application for a community church. Features an event calendar, information about the church, and a system for users to request notifications for upcoming events.",
+  "requestFramePermissions": []
+}
